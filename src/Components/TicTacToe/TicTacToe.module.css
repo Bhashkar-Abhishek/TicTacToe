@@ -1,0 +1,10 @@
+.boardrow{
+    display: flex;
+    align-items: center;
+    }
+    .boardcontainer{
+      margin: 20px;
+      height: 40vh;
+      width: 40vh;
+      text-align: center;
+    }
